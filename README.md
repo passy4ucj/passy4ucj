@@ -18,7 +18,7 @@
 
 Hi, I'm Pascal Ojinnaka, a Junior Full Stack Developer 🚀 and an Azure Developer from Nigeria 🇳🇬, currently, I'm a softwate developer 🙍🏽‍♂️ [@Outcess]🏽‍🎓. Beside's programming, I enjoy Reading about tech, football⚽ and surfing the web.
 
-- 🌱 I’m currently learning ReactJs, Angular and Asp.Net Core; 
+- 🌱 I’m currently learning ReactJs, and Asp.Net Core; 
 - 💬 Ask me about anything related to C#, Asp.Net Core MVC and Azure, I am happy to help;
 - 📫 How to reach me: ojinnnakapascal@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1SjgMa8MleWXqj5g-KmL-ygwHn4AjLiju/view?usp=sharing)
