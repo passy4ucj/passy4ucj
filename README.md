@@ -16,10 +16,10 @@
 <br />
 <br />
 
-Hi, I'm Pascal Ojinnaka, a Full Stack Developer 🚀 and an Azure Developer from Nigeria 🇳🇬, currently, I'm a softwate developer - Digital Marketer 🙍🏽‍♂️ [@Outcess]🏽‍🎓. Beside's programming, I enjoy Reading about tech, football⚽ and surfing the web.
+Hi, I'm Pascal Ojinnaka, a Backend Developer 🚀, graudually becomming a Full Stack developer and an Azure Developer from Nigeria 🇳🇬, currently, I'm a softwate developer - Digital Marketer 🙍🏽‍♂️ [@Outcess]🏽‍🎓. Beside's programming, I enjoy Reading about tech, football⚽ and surfing the web.
 
 - 🌱 I’m currently learning ReactJs and Node.js; 
-- 💬 Ask me about anything related to Javascript and Azure, I am happy to help;
+- 💬 Ask me about anything related to Node.js and Azure, I am happy to help;
 - 📫 How to reach me: ojinnnakapascal@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1SjgMa8MleWXqj5g-KmL-ygwHn4AjLiju/view?usp=sharing)
 
@@ -29,6 +29,7 @@ Hi, I'm Pascal Ojinnaka, a Full Stack Developer 🚀 and an Azure Developer from
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
